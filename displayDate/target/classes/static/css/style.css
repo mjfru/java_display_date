@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+* {
+	margin: 0 auto;
+}
+
+h1, h3 {
+	color: deepskyblue;
+	text-align: center;
+	margin: 10px;
+}
+
+.links {
+	display: flex;
+	width: 25%;
+}
+
+.container {
+	width: 50%;
+	border: 2px solid grey;
+	padding: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.homelink {
+	font-size: 24px;
+}
